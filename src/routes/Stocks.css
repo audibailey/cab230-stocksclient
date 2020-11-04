@@ -1,0 +1,12 @@
+/* Full height not including navbar, to ensure a no scroll web application */
+.Stocks-maxheight {
+    height: calc(100vh - (0.2*100vh));
+}
+
+.ag-theme-alpine .ag-header-icon {
+    color: white;
+}
+
+.ag-ltr input[class^='ag-'][type='text'] {
+    color: #1d1d1d;
+}

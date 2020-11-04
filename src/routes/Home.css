@@ -1,0 +1,6 @@
+/*Gives the jumbotron a blurred header*/
+.jumbotron {
+    margin-bottom: 0px;
+    position: relative;
+    border: 1px #1d1d1d solid;
+}
